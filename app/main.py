@@ -8,6 +8,9 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 
 
+
+
+
 OPEN_METEO_URL = (
     "https://api.open-meteo.com/v1/forecast"
     "?latitude=37.7749&longitude=-122.4194&current_weather=true"
