@@ -1,1 +1,1 @@
-create a cicd pipeline which builds the image, pushes it to artifact registry and then deploys it to cloud run
+create a cicd pipeline which builds the image, pushes it to artifact registry and then deploys it to cloud run in us-central1
