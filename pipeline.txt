@@ -4,3 +4,5 @@ Scan the image for CVEs.
 Deploy the image to Cloud Run.
 
 # probe webhook 2026-11-27T12:30:11Z
+
+# probe gateway 2026-11-27T12:43:00Z
